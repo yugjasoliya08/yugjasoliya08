@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yug Jasoliya</h1>
 
 <p align="center">
-Python Developer | Data Analytics | Machine Learning
+Python backend Developer | Data Analytics | 
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@ Python Developer | Data Analytics | Machine Learning
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-jasoliya-69691126b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugjasoliya49@gmail.com)
 
 
 ## Tech Stack
