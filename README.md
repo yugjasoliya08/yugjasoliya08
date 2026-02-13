@@ -17,10 +17,9 @@ Python backend Developer | Data Analytics |
 
 ## Tech Stack
 
-## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,postgres,react,js,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,postgres,mysql,react,js,git&theme=dark&perline=9"/>
 </p>
 
 <p align="center">
@@ -45,7 +44,7 @@ Currently pursuing internship at <b>Codewinglet Pvt. Ltd.</b>
 
 ### VisionAI Gallery
 Machine learning model to classify news as real or fake using NLP.
-[[View Project](https://github.com/yugjasoliya08/VisionAIGallery)
+[View Project](https://github.com/yugjasoliya08/VisionAIGallery)
 
 ---
 
@@ -71,8 +70,8 @@ Full-stack ERP system built using Python and React.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yugjasoliya08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yugjasoliya08&theme=tokyonight&hide_border=true"/>
 </p>
 
 
