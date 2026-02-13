@@ -19,7 +19,7 @@ Python backend Developer | Data Analytics |
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,postgres,mysql,react,js,git&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git&theme=dark&perline=9"/>
 </p>
 
 <p align="center">
