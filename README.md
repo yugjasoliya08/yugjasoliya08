@@ -17,8 +17,15 @@ Python backend Developer | Data Analytics |
 
 ## Tech Stack
 
+## Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,js,java,mysql,git,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,postgres,react,js,git&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=anaconda&logoColor=green"/>
+<img src="https://img.shields.io/badge/Data_Analytics-000000?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
 </p>
 
 
