@@ -19,7 +19,7 @@ Python Backend Developer | Data Analytics 🚀
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,react,js&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git&theme=dark&perline=8"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@ Python Backend Developer | Data Analytics 🚀
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 
