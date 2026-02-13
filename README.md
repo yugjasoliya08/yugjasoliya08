@@ -5,7 +5,7 @@ Python backend Developer | Data Analytics |
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;Machine+Learning+Enthusiast;SAP+Analytics+Cloud+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Analyst+Enthusiast;SAP+Analytics+Cloud+Learner"/>
 </p>
 
 
@@ -29,9 +29,9 @@ Python backend Developer | Data Analytics |
 
 
 ## About Me
-<p align="center">
-Currently pursuing internship at <b>Codewinglet Pvt. Ltd.</b>
-</p>
+
+Currently pursuing internship at **Codewinglet Pvt. Ltd.**
+
 - Python Developer focused on backend and data analytics
 - Working on Python and AIML projects
 - SAP Analytics Cloud Learner
@@ -40,28 +40,33 @@ Currently pursuing internship at <b>Codewinglet Pvt. Ltd.</b>
 
 
 
+
 ## Projects
 
 ### VisionAI Gallery
-Machine learning model to classify news as real or fake using NLP.
+AI-powered image gallery that uses computer vision concepts to organize and display images intelligently.
+Technologies: Python, Machine Learning, Computer Vision 
 [View Project](https://github.com/yugjasoliya08/VisionAIGallery)
 
 ---
 
 ### TechLearn-Web-Based-E-Learning-Platform
-Real-time sentiment analysis using Python and NLP techniques.
+Web-based learning management platform for course access, user interaction, and online education features.
+Technologies: Web Development, JavaScript, Backend Development
 [View Project](https://github.com/yugjasoliya08/TechLearn-Web-Based-E-Learning-Platform)
 
 ---
 
 ### Twitter-Sentiment-Analysis-Web-App
-Full-stack ERP system built using Python and React.
+Machine learning web application that analyzes sentiment from tweets using NLP techniques and data analytics.
+Technologies: Python, NLP, Scikit-learn, Streamlit 
 [View Project](https://github.com/yugjasoliya08/Twitter-Sentiment-Analysis-Web-App)
 
 ---
 
 ### Career-Recommender-System
-Full-stack ERP system built using Python and React.
+AI-based recommendation system that suggests career paths based on skills, interests, and data-driven analysis.
+Technologies: Python, Machine Learning, Data Analytics
 [View Project](https://github.com/yugjasoliya08/Career-Recommender-System)
 
 --
