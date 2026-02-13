@@ -23,22 +23,42 @@ Python backend Developer | Data Analytics |
 
 
 ## About Me
-
+<p align="center">
+Currently pursuing internship at <b>Codewinglet Pvt. Ltd.</b>
+</p>
 - Python Developer focused on backend and data analytics
 - Working on Python and AIML projects
 - SAP Analytics Cloud Learner
 - Internship experience at Venom Technology
-<p align="center">
-Currently pursuing internship at <b>Codewinglet Pvt. Ltd.</b>
-</p>
+
 
 
 
 ## Projects
 
-- Fake News Detection Using Machine Learning
-- Twitter Sentiment Analysis
-- ERP Software Project
+### VisionAI Gallery
+Machine learning model to classify news as real or fake using NLP.
+[[View Project](https://github.com/yugjasoliya08/VisionAIGallery)
+
+---
+
+### TechLearn-Web-Based-E-Learning-Platform
+Real-time sentiment analysis using Python and NLP techniques.
+[View Project](https://github.com/yugjasoliya08/TechLearn-Web-Based-E-Learning-Platform)
+
+---
+
+### Twitter-Sentiment-Analysis-Web-App
+Full-stack ERP system built using Python and React.
+[View Project](https://github.com/yugjasoliya08/Twitter-Sentiment-Analysis-Web-App)
+
+---
+
+### Career-Recommender-System
+Full-stack ERP system built using Python and React.
+[View Project](https://github.com/yugjasoliya08/Career-Recommender-System)
+
+--
 
 
 ## GitHub Stats
