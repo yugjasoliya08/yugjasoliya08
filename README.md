@@ -25,9 +25,13 @@ Python backend Developer | Data Analytics |
 ## About Me
 
 - Python Developer focused on backend and data analytics
-- Working on Machine Learning projects
+- Working on Python and AIML projects
 - SAP Analytics Cloud Learner
 - Internship experience at Venom Technology
+<p align="center">
+Currently pursuing internship at <b>Codewinglet Pvt. Ltd.</b>
+</p>
+
 
 
 ## Projects
