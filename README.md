@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yug Jasoliya 👋</h1>
 
 <p align="center">
-Python Backend Developer | Data Analytics | Machine Learning 🚀
+Python Backend Developer | Data Analytics 🚀
 </p>
 
 <p align="center">
